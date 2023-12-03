@@ -1,0 +1,16 @@
+.tableau{
+    margin-top: -60px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.tableau table th.entete{
+    text-align: center;
+    padding: 15px;
+}
+
+.tableau table td.result{
+    text-align: center;
+    padding: 15px;
+}
